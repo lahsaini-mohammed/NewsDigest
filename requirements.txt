@@ -1,0 +1,24 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-huggingface
+langchain-text-splitters
+langchain-core
+langchain-groq
+unstructured
+libmagic
+nltk
+pandas
+duckduckgo-search
+faiss-cpu
+streamlit
+xmltodict
+python-dotenv
+tqdm
+ipywidgets
+ipykernel 
+# Torch with cuda support.
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+transformers
+sentence-transformers
